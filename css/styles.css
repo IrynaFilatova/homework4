@@ -455,7 +455,7 @@ color: #2e2f42; margin-top: 0 auto; margin-bottom: 72px;
  align-items: center;
  margin-right: 120px;
  display: flex;
-  align-items: baseline
+  align-items: baseline;
 }
 .footer-logo {
  font-family: "Raleway", sans-serif;
